@@ -6,6 +6,7 @@ This is primarily for an ESP32 or similar microcontroller embedded on a eurorack
 Inputs:
 - 3 Digital inputs
   - Can be set to gate or trigger mode
+  - Each input has a capacative touch input routed in an OR fashion.
 
 - 3 CV inputs
   - Can be set to 5V or 10V unipolar or bipolar
