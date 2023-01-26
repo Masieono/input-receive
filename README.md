@@ -10,6 +10,7 @@ Inputs:
 
 - 3 CV inputs
   - Can be set to 5V or 10V unipolar or bipolar
+  - Attenuverters allow for offsetting signal much like a maths module
   
 - Stereo audio input
   - Can be set to L/R or 2 audio channels
