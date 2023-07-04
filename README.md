@@ -1,4 +1,3 @@
-# input-receive
 firmware for the input receiver of a eurorack modular system
 
 This is primarily for an ESP32 or similar microcontroller embedded on a eurorack-style faceplate. The eurorack module hosts inputs that get sent to a raspberry pi controlling an LED matrix. 
